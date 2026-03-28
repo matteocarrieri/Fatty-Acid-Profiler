@@ -1,0 +1,91 @@
+sample,fatty_acid,abbreviation,category,n_type,percentage
+Latte Bovino,Acido Butirrico,C4:0,SFA,,3.52
+Latte Bovino,Acido Caproico,C6:0,SFA,,2.10
+Latte Bovino,Acido Caprilico,C8:0,SFA,,1.28
+Latte Bovino,Acido Caprico,C10:0,SFA,,3.01
+Latte Bovino,Acido Laurico,C12:0,SFA,,3.45
+Latte Bovino,Acido Miristico,C14:0,SFA,,11.02
+Latte Bovino,Acido Miristoleico,C14:1,MUFA,n-9,0.91
+Latte Bovino,Acido Pentadecanoico,C15:0,SFA,,1.02
+Latte Bovino,Acido Palmitico,C16:0,SFA,,28.01
+Latte Bovino,Acido Palmitoleico,C16:1,MUFA,n-7,1.48
+Latte Bovino,Acido Eptadecanoico,C17:0,SFA,,0.62
+Latte Bovino,Acido Stearico,C18:0,SFA,,11.54
+Latte Bovino,Acido Oleico,C18:1 n-9,MUFA,n-9,22.98
+Latte Bovino,Acido Linoleico,C18:2 n-6,PUFA,n-6,2.51
+Latte Bovino,Acido alfa-Linolenico,C18:3 n-3,PUFA,n-3,0.68
+Latte Bovino,CLA c9t11,C18:2 c9t11,PUFA,n-6,0.52
+Latte Bovino,Acido Arachidonico,C20:4 n-6,PUFA,n-6,0.18
+Latte Bovino,Acido Eicosadienoico,C20:0,SFA,,0.17
+Latte Ovino,Acido Butirrico,C4:0,SFA,,4.10
+Latte Ovino,Acido Caproico,C6:0,SFA,,3.02
+Latte Ovino,Acido Caprilico,C8:0,SFA,,2.85
+Latte Ovino,Acido Caprico,C10:0,SFA,,7.81
+Latte Ovino,Acido Laurico,C12:0,SFA,,4.62
+Latte Ovino,Acido Miristico,C14:0,SFA,,10.98
+Latte Ovino,Acido Miristoleico,C14:1,MUFA,n-9,0.30
+Latte Ovino,Acido Pentadecanoico,C15:0,SFA,,1.12
+Latte Ovino,Acido Palmitico,C16:0,SFA,,25.22
+Latte Ovino,Acido Palmitoleico,C16:1,MUFA,n-7,0.90
+Latte Ovino,Acido Eptadecanoico,C17:0,SFA,,0.75
+Latte Ovino,Acido Stearico,C18:0,SFA,,9.82
+Latte Ovino,Acido Oleico,C18:1 n-9,MUFA,n-9,19.60
+Latte Ovino,Acido Linoleico,C18:2 n-6,PUFA,n-6,3.10
+Latte Ovino,Acido alfa-Linolenico,C18:3 n-3,PUFA,n-3,1.42
+Latte Ovino,CLA c9t11,C18:2 c9t11,PUFA,n-6,0.98
+Latte Ovino,Acido Arachidonico,C20:4 n-6,PUFA,n-6,0.25
+Latte Ovino,Acido Eicosadienoico,C20:0,SFA,,0.16
+Latte Caprino,Acido Butirrico,C4:0,SFA,,1.98
+Latte Caprino,Acido Caproico,C6:0,SFA,,2.43
+Latte Caprino,Acido Caprilico,C8:0,SFA,,2.67
+Latte Caprino,Acido Caprico,C10:0,SFA,,9.53
+Latte Caprino,Acido Laurico,C12:0,SFA,,3.82
+Latte Caprino,Acido Miristico,C14:0,SFA,,9.91
+Latte Caprino,Acido Miristoleico,C14:1,MUFA,n-9,0.19
+Latte Caprino,Acido Pentadecanoico,C15:0,SFA,,0.88
+Latte Caprino,Acido Palmitico,C16:0,SFA,,24.65
+Latte Caprino,Acido Palmitoleico,C16:1,MUFA,n-7,1.02
+Latte Caprino,Acido Eptadecanoico,C17:0,SFA,,0.58
+Latte Caprino,Acido Stearico,C18:0,SFA,,10.20
+Latte Caprino,Acido Oleico,C18:1 n-9,MUFA,n-9,26.80
+Latte Caprino,Acido Linoleico,C18:2 n-6,PUFA,n-6,3.45
+Latte Caprino,Acido alfa-Linolenico,C18:3 n-3,PUFA,n-3,0.88
+Latte Caprino,CLA c9t11,C18:2 c9t11,PUFA,n-6,0.45
+Latte Caprino,Acido Arachidonico,C20:4 n-6,PUFA,n-6,0.21
+Latte Caprino,Acido Eicosadienoico,C20:0,SFA,,0.14
+Parmigiano Reggiano,Acido Butirrico,C4:0,SFA,,3.21
+Parmigiano Reggiano,Acido Caproico,C6:0,SFA,,1.98
+Parmigiano Reggiano,Acido Caprilico,C8:0,SFA,,1.15
+Parmigiano Reggiano,Acido Caprico,C10:0,SFA,,2.89
+Parmigiano Reggiano,Acido Laurico,C12:0,SFA,,3.10
+Parmigiano Reggiano,Acido Miristico,C14:0,SFA,,12.41
+Parmigiano Reggiano,Acido Miristoleico,C14:1,MUFA,n-9,1.02
+Parmigiano Reggiano,Acido Pentadecanoico,C15:0,SFA,,1.31
+Parmigiano Reggiano,Acido Palmitico,C16:0,SFA,,30.14
+Parmigiano Reggiano,Acido Palmitoleico,C16:1,MUFA,n-7,1.85
+Parmigiano Reggiano,Acido Eptadecanoico,C17:0,SFA,,0.71
+Parmigiano Reggiano,Acido Stearico,C18:0,SFA,,10.98
+Parmigiano Reggiano,Acido Oleico,C18:1 n-9,MUFA,n-9,21.55
+Parmigiano Reggiano,Acido Linoleico,C18:2 n-6,PUFA,n-6,1.98
+Parmigiano Reggiano,Acido alfa-Linolenico,C18:3 n-3,PUFA,n-3,0.48
+Parmigiano Reggiano,CLA c9t11,C18:2 c9t11,PUFA,n-6,0.62
+Parmigiano Reggiano,Acido Arachidonico,C20:4 n-6,PUFA,n-6,0.12
+Parmigiano Reggiano,Acido Eicosadienoico,C20:0,SFA,,0.10
+Pecorino Romano,Acido Butirrico,C4:0,SFA,,3.88
+Pecorino Romano,Acido Caproico,C6:0,SFA,,2.75
+Pecorino Romano,Acido Caprilico,C8:0,SFA,,2.55
+Pecorino Romano,Acido Caprico,C10:0,SFA,,7.20
+Pecorino Romano,Acido Laurico,C12:0,SFA,,4.30
+Pecorino Romano,Acido Miristico,C14:0,SFA,,11.60
+Pecorino Romano,Acido Miristoleico,C14:1,MUFA,n-9,0.45
+Pecorino Romano,Acido Pentadecanoico,C15:0,SFA,,1.05
+Pecorino Romano,Acido Palmitico,C16:0,SFA,,26.80
+Pecorino Romano,Acido Palmitoleico,C16:1,MUFA,n-7,1.10
+Pecorino Romano,Acido Eptadecanoico,C17:0,SFA,,0.68
+Pecorino Romano,Acido Stearico,C18:0,SFA,,9.10
+Pecorino Romano,Acido Oleico,C18:1 n-9,MUFA,n-9,20.40
+Pecorino Romano,Acido Linoleico,C18:2 n-6,PUFA,n-6,2.85
+Pecorino Romano,Acido alfa-Linolenico,C18:3 n-3,PUFA,n-3,1.25
+Pecorino Romano,CLA c9t11,C18:2 c9t11,PUFA,n-6,1.10
+Pecorino Romano,Acido Arachidonico,C20:4 n-6,PUFA,n-6,0.22
+Pecorino Romano,Acido Eicosadienoico,C20:0,SFA,,0.14

@@ -91,19 +91,35 @@ Latte Bovino,Acido Linoleico,C18:2 n-6,PUFA,n-6,2.51
 
 ## 🚀 Installazione e avvio
 
+### ✅ Metodo consigliato — Conda (ambiente isolato e riproducibile)
+
 ```bash
 # 1. Clona la repository
 git clone https://github.com/<tuo-username>/fatty-acid-profiler.git
 cd fatty-acid-profiler
 
-# 2. Installa le dipendenze
-pip install -r requirements.txt
+# 2. Crea l'ambiente conda
+conda env create -f environment.yml
 
-# 3. Avvia l'applicazione
+# 3. Attiva l'ambiente
+conda activate fatty-acid-profiler
+
+# 4. Avvia l'applicazione
 python app.py
 ```
 
-> **Requisiti**: Python ≥ 3.10, tkinter (incluso nella distribuzione standard)
+> **Perché conda?** Il tool usa matplotlib con backend TkAgg. Versioni incompatibili di numpy/pandas/matplotlib nello stesso ambiente possono causare errori silenziosi. L'ambiente conda garantisce la riproducibilità esatta.
+
+### Metodo alternativo — pip
+
+```bash
+git clone https://github.com/<tuo-username>/fatty-acid-profiler.git
+cd fatty-acid-profiler
+pip install -r requirements.txt
+python app.py
+```
+
+> **Requisiti**: Python ≥ 3.10, tkinter (incluso nella distribuzione standard CPython)
 
 ---
 
@@ -144,4 +160,3 @@ Università di Bologna · DIMEVET
 ## 📄 Licenza
 
 MIT License — libero utilizzo con attribuzione.
-

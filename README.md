@@ -1,4 +1,4 @@
-# 🧪 Fatty Acid Profiler
+<img width="3360" height="2100" alt="image" src="https://github.com/user-attachments/assets/64c696b9-63d5-45bd-88dc-1a08e2e14f64" /># 🧪 Fatty Acid Profiler
 
 > Analisi automatizzata del profilo in acidi grassi di **latte e formaggi** da dati cromatografici GC-FAME  
 > Interfaccia desktop Tkinter · Python · Indici nutrizionali · Visualizzazioni interattive
@@ -124,6 +124,14 @@ python app.py
 ---
 
 ## 🖥 Screenshot
+
+<img width="1680" height="1050" alt="Screenshot 2026-04-11 alle 23 52 35" src="https://github.com/user-attachments/assets/aadf1058-b55d-4452-b39b-2f74a4a3c005" />
+<img width="1680" height="1050" alt="Screenshot 2026-04-11 alle 23 52 38" src="https://github.com/user-attachments/assets/13211c10-f01e-4589-9b57-530b87efb214" />
+
+<img width="1680" height="1050" alt="Screenshot 2026-04-11 alle 23 53 06" src="https://github.com/user-attachments/assets/29087f15-1cd2-469e-8361-63a24373ff07" />
+<img width="1680" height="1050" alt="Screenshot 2026-04-11 alle 23 52 42" src="https://github.com/user-attachments/assets/fcbc775d-9d72-4dcf-94a4-d8031f859364" />
+
+
 
 > *L'app carica automaticamente il dataset di esempio all'avvio.*
 

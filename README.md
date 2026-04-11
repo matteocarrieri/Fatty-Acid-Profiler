@@ -1,5 +1,3 @@
-<img width="3360" height="2100" alt="image" src="https://github.com/user-attachments/assets/64c696b9-63d5-45bd-88dc-1a08e2e14f64" /># 🧪 Fatty Acid Profiler
-
 > Analisi automatizzata del profilo in acidi grassi di **latte e formaggi** da dati cromatografici GC-FAME  
 > Interfaccia desktop Tkinter · Python · Indici nutrizionali · Visualizzazioni interattive
 
